@@ -5,7 +5,7 @@
 
 # log into level 2
 
-sshpass -p $(cat 1) ssh bandit0@bandit.labs.overthewire.org -p 2220
+sshpass -p $(cat 1) ssh bandit1@bandit.labs.overthewire.org -p 2220
 
 # read the content of the file -
 
@@ -18,4 +18,6 @@ exit
 # save the password in a file
 
 echo PASSWORD > 2
+
+# Replace PASSWORD with the password you copied.
 
