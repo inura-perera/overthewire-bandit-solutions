@@ -10,3 +10,13 @@ The Bandit game is a series of challenges designed to teach players the basics o
 
 The repository is organized by levels, with each level having its own directory. Each directory contains a solution file detailing the steps and commands used to solve that particular level.
 
+
+
+## Getting Started
+
+To get started with the Bandit game, follow these steps:
+
+ **Connect to the Bandit server**:
+   ```sh
+   ssh bandit0@bandit.labs.overthewire.org -p 2220
+  
